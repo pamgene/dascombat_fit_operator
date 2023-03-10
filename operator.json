@@ -3,8 +3,6 @@
   "description": "Fit a DasCombat model to data.",
   "tags": ["pamgene", "dascombat", "fit"],
   "authors": ["tercen", "wptmdoorn"],
-  "urls": ["https://github.com/tercen/dascombat_fit_operator"],
+  "urls": ["https://github.com/pamgene/dascombat_fit_operator"],
   "properties": []
 }
-
-
